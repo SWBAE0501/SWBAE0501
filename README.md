@@ -1,4 +1,5 @@
-### Ensemble of Economics & Data Science
+### Greetings!
+## Thanks for visiting my github. Wishing you a wonderful day!
 
 <!--
 **SWBAE0501/SWBAE0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
